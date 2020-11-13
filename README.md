@@ -6,7 +6,7 @@
 [github-stars]: https://img.shields.io/github/stars/team-eoanb/EoaNB?style=social
 [patreon-badge]: https://img.shields.io/badge/Patreon-Donate-orange
 [patreon-link]: https://www.patreon.com/mod_eoanb
-[steam-badge]: https://img.shields.io/endpoint?color=lightgrey&label=Steam&logo=steam
+[steam-badge]: https://img.shields.io/static/v1?label=Steam&message=Dowload&color=lightgrey&logo=steam
 [steam-link]: https://steamcommunity.com/sharedfiles/filedetails/?id=2114093692
 [discord-badge]: 318668421719916545
 [discord-link]: https://discord.gg/VgufEME
