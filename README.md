@@ -4,7 +4,7 @@
 
 [github-size]: https://img.shields.io/github/languages/code-size/team-eoanb/EoaNB
 [github-stars]: https://img.shields.io/github/stars/team-eoanb/EoaNB?style=social
-[patreon-badge]: https://img.shields.io/endpoint?color=orange&label=Steam&logo=steam&url=https%3A%2F%2Fwww.patreon.com%2Fmod_eoanb
+[patreon-badge]: https://img.shields.io/endpoint?color=orange&label=Patreon&logo=patreon
 [patreon-link]: https://www.patreon.com/mod_eoanb
 [steam-badge]: https://img.shields.io/endpoint?color=gray&label=Steam&logo=steam
 [steam-link]: https://steamcommunity.com/sharedfiles/filedetails/?id=2114093692
