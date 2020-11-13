@@ -1,6 +1,6 @@
 # End of a New Beginning Github Repository [github-size][github-stars]
 
-### Our Socials: [![Patreon][patreon-badge]][patreon-link] [!Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
+### Our Socials: [![Patreon][patreon-badge]][patreon-link] [![Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
 
 [github-size]: https://img.shields.io/github/languages/code-size/team-eoanb/EoaNB
 [github-stars]: https://img.shields.io/github/stars/team-eoanb/EoaNB?style=social
