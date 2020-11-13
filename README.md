@@ -1,4 +1,21 @@
-EoaNB Development Repository
+# End of a New Beginning Github Repository [github-size][github-stars]
+
+### Our Socials: [![Patreon][patreon-badge]][patreon-link] [!Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
+
+[github-size]: https://img.shields.io/github/languages/code-size/team-eoanb/EoaNB
+[github-stars]: https://img.shields.io/github/stars/team-eoanb/EoaNB?style=social
+[patreon-badge]: https://img.shields.io/endpoint?color=orange&label=Patreon&logo=patreon
+[patreon-link]: https://www.patreon.com/mod_eoanb
+[steam-badge]: 
+[steam-link]: https://steamcommunity.com/sharedfiles/filedetails/?id=2114093692
+[discord-badge]: 318668421719916545
+[discord-link]: https://discord.gg/VgufEME
+
+## Development & Usage
+
+This repository is for sharing and cooperating in the development process of the Hearts of Iron IV mod: End of a New Beginning.
+
+
 
 This repository is for sharing and cooperating with the process of developing EoaNB.
 If you wish to support the development and join the team, join our Discord server and create an application. All members with the role Curia are granted access to the repository, and are given one 'Vicarius', or a team.
