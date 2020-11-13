@@ -1,4 +1,4 @@
-# End of a New Beginning Github Repository [![github-size][github-stars]]
+# End of a New Beginning Github Repository [![github-size]][![github-stars]]
 
 ### Our Socials: [![Patreon][patreon-badge]][patreon-link] [![Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
 
