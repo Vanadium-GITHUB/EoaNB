@@ -45,7 +45,7 @@ We do not tolerate using content developed for EoaNB for other purposes. Any oth
 
 ## Meet the Team; Join the Discussion
 
-Have more questions, comments or feedback? You can contacting us by joining our discord:
+Have more questions, comments or feedback? You can contact us by joining our discord:
 
 - https://discord.gg/VgufEME
 
