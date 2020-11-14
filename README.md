@@ -23,7 +23,7 @@ This repository is for sharing and cooperating in the development process of the
 If you wish to support the development of the mod, join the team, join our Discord Server and create an application in `#faq`. Applicants will be given the `Curia` Team Member Role and the `Disciplio` Trial Role. After passing the Trial Period, members will be fully accepted into the team and be given GitHub write access if applicable.
 
 Rules for Developers
-- Current General Development shall be pushed onto the `experimental` branch.
+- Current General Development for EoaNB shall be pushed onto the `experimental` branch.
 - All code should be error-checked before pushed onto the Github
 - Merging should be done carefully and procedurely. Do not override other developers' work without acknowledgment of the team.
 - If procedural pushing (including incomplete content) is crucial to development, request a new branch.
@@ -33,9 +33,9 @@ Rules for Developers
 
 End of a New Beginning is a free to play, open source mod.
 
-If you do not wish to apply as a dev, you are free to fork the repository and modify it, redistribute it and privately use it, but the content of EoaNB is licensed under the GNU General Public License 3.0, which means you have to alert that what you're redistributing is a modified version of EoaNB.
+If you would like to work on the mod but do not wish to apply for the team, you are free to fork the repository and modify it, and redistribute it for private use. Content of EoaNB is licensed under the GNU General Public License 3.0, which means you have to alert users you are redistributing a modified, unofficial version of EoaNB.
 
-We also do not tolerate redistribution of the components of EoaNB that are our creations without special permission. Any other source doing such things or are claiming ownership/profting from our work will be legally liable.
+We do not tolerate using content developed for EoaNB for other purposes. Any other source doing such things or are claiming ownership/profiting from our work may be liable to legal disputes.
 
 ### Crash Troubleshooting
 
