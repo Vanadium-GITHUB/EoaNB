@@ -82,7 +82,7 @@ Have more questions, comments or feedback? You can contact us by joining our dis
   <img src="https://cdn.discordapp.com/avatars/212693204519223296/12c04fd0ebb1cde05159ae6c5c25e41c.png?size=256" width="120px;" alt="TPS-Geronam"/>
 </td>
 <td align="center">
-  <a href = "https://github.com/orgs/team-eoanb/people/Vanadium-GITHUB"><strong>Vanadium</strong></a>
+  <a href = "https://github.com/Vanadium-GITHUB"><strong>Vanadium</strong></a>
   <img src="https://cdn.discordapp.com/avatars/260139598972321793/936e61461f6e82564be9a2b29d3d2f14.png?size=256" width="120px;" alt="Vanadium"/>
 </td>
 </tr>
