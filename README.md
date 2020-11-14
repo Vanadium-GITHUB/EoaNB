@@ -1,6 +1,6 @@
 # End of a New Beginning Github Repository ![github-size]  ![github-stars]
 
-### Our Socials: [![Patreon][patreon-badge]][patreon-link] [![Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
+### - Media: [![Patreon][patreon-badge]][patreon-link] [![Steam][steam-badge]][steam-link] [![Discord][discord-badge]][discord-link]
 
 [github-size]: https://img.shields.io/github/languages/code-size/team-eoanb/EoaNB
 [github-stars]: https://img.shields.io/github/stars/team-eoanb/EoaNB?style=social
@@ -39,7 +39,7 @@ We also do not tolerate redistribution of the components of EoaNB that are our c
 
 ### Crash Troubleshooting
 
-`Missing Together for Victory Crash`: The current version of our mod crashes on the first day after loading into the game if the player does not own the Hearts of Iron IV dlc 'Together for Victory`. We are aware of this issue and it is a priority of the team to make all content not be locked behind dlc-required content. However, we have yet pinpointed the exact code that is causing the crash.
+`Missing Together for Victory Crash`: The current version of our mod crashes on after unpausing on the first day of the game if the player does not own the Hearts of Iron IV dlc 'Together for Victory`. We are aware of this issue and it is a priority of the team to make all content not be locked behind dlc-required content. However, we have not yet pinpointed the exact code that is causing the crash.
 
 `Recalculating Naval Distances Crash`: The current version of our mod crashes during the loading process between the launcher and the main menu at the 'Recalculating Naval Distances' section for some users with incompatible graphics cards. A good fix for many is to enter the Steam Library and enter `-opengl` to Hearts of Iron IV's launch settings.
 
@@ -47,3 +47,41 @@ We also do not tolerate redistribution of the components of EoaNB that are our c
 
 Have more questions? Comments? etc.? Join the Discord:
 - https://discord.gg/VgufEME
+
+# Centurions
+<table>
+<tr>
+<td align="center">
+AtomicFalco
+https://cdn.discordapp.com/avatars/264200249545850890/1806a4b3a24bc961790f2e5cf99c63c4.png?size=256
+</td>
+<td align="center">
+Coggernaut
+https://cdn.discordapp.com/avatars/201845856553533440/7711758951cf45569d84d3f648c56aae.png?size=256
+</td>
+<td align="center">
+Garion132
+https://cdn.discordapp.com/avatars/118877444542300164/ee0bac252d2038b1cf77d1b382618918.png?size=256
+</td>
+<td align="center">
+Imperialism
+https://cdn.discordapp.com/avatars/254066709252669440/dbe57d4081757cc0aa36ae256e106284.png?size=256
+</td>
+<td align="center">
+Kuba
+https://cdn.discordapp.com/avatars/320588200026308608/6109e4fcecf4e966d92545d72efdc332.png?size=256
+</td>
+<td align="center">
+Londinium
+https://cdn.discordapp.com/avatars/246957288881913857/09f0493f82af5544031208bf01afe898.png?size=256
+</td>
+<td align="center">
+TPS-Geronam
+https://cdn.discordapp.com/avatars/212693204519223296/12c04fd0ebb1cde05159ae6c5c25e41c.png?size=256
+</td>
+<td align="center">
+Vanadium
+https://cdn.discordapp.com/avatars/260139598972321793/936e61461f6e82564be9a2b29d3d2f14.png?size=256
+</td>
+</tr>
+</table>
