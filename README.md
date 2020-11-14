@@ -49,8 +49,8 @@ Have more questions, comments or feedback? You can contacting us by joining our 
 
 - https://discord.gg/VgufEME
 
-## Centurions
-Current Lead Developers
+## Meet the Lead-Developers
+*aka Centurions*
 <table>
 <tr>
 <td align="center">
