@@ -27,13 +27,13 @@ Rules for Developers
 - All code should be error-checked before pushed onto the Github
 - Merging should be done carefully and procedurely. Do not override other developers' work without acknowledgment of the team.
 - If procedural pushing (including incomplete content) is crucial to development, request a new branch.
-- Merging any branch into the master branch (the distributed branch) will require a pull request which can only be initialised by a Centurion, and requires the approval of at least another Centurion. Errors are to be checked and minimalised by the Centurion who does the request.
+- Merging any branch into the master branch (the distributed branch) will require a pull request which can only be initialised by a *Centurion*, and requires the approval of at least another Centurion. Errors are to be checked and minimalised by the Centurion who does the request.
 
 ### Usage
 
-End of a New Beginning is a free to play, open source mod.
+End of a New Beginning is a `free to play, open source mod`.
 
-If you would like to work on the mod but do not wish to apply for the team, you are free to fork the repository and modify it, and redistribute it for private use. Content of EoaNB is licensed under the GNU General Public License 3.0, which means you have to alert users you are redistributing a modified, unofficial version of EoaNB.
+If you would like to work on the mod but do not wish to apply for the team, you are free to fork the repository and modify it, and redistribute it for private use. Content of EoaNB is licensed under the `GNU General Public License 3.0`, which means you have to alert users you are redistributing a modified, unofficial version of EoaNB.
 
 We do not tolerate using content developed for EoaNB for other purposes. Any other source doing such things or are claiming ownership/profiting from our work may be liable to legal disputes.
 
