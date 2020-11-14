@@ -52,36 +52,36 @@ Have more questions? Comments? etc.? Join the Discord:
 <table>
 <tr>
 <td align="center">
-AtomicFalco
-https://cdn.discordapp.com/avatars/264200249545850890/1806a4b3a24bc961790f2e5cf99c63c4.png?size=256
+  <strong>AtomicFalco</strong>
+  <img src="https://cdn.discordapp.com/avatars/264200249545850890/1806a4b3a24bc961790f2e5cf99c63c4.png?size=256" width="120px;" alt="AtomicFalco"/>
 </td>
 <td align="center">
-Coggernaut
-https://cdn.discordapp.com/avatars/201845856553533440/7711758951cf45569d84d3f648c56aae.png?size=256
+  <strong>Coggernaut</strong>
+  <img src="https://cdn.discordapp.com/avatars/201845856553533440/7711758951cf45569d84d3f648c56aae.png?size=256" width="120px;" alt="Coggernaut"/>
 </td>
 <td align="center">
-Garion132
-https://cdn.discordapp.com/avatars/118877444542300164/ee0bac252d2038b1cf77d1b382618918.png?size=256
+  <strong>Garion132</strong>
+  <img src="https://cdn.discordapp.com/avatars/118877444542300164/ee0bac252d2038b1cf77d1b382618918.png?size=256" width="120px;" alt="Garion132"/>
 </td>
 <td align="center">
-Imperialism
-https://cdn.discordapp.com/avatars/254066709252669440/dbe57d4081757cc0aa36ae256e106284.png?size=256
+  <strong>Imperialism</strong>
+  <img src="https://cdn.discordapp.com/avatars/254066709252669440/dbe57d4081757cc0aa36ae256e106284.png?size=256" width="120px;" alt="Imperialism"/>
 </td>
 <td align="center">
-Kuba
-https://cdn.discordapp.com/avatars/320588200026308608/6109e4fcecf4e966d92545d72efdc332.png?size=256
+  <strong>Kuba</strong>
+  <img src="https://cdn.discordapp.com/avatars/320588200026308608/6109e4fcecf4e966d92545d72efdc332.png?size=256" width="120px;" alt="Kraken"/>
 </td>
 <td align="center">
-Londinium
-https://cdn.discordapp.com/avatars/246957288881913857/09f0493f82af5544031208bf01afe898.png?size=256
+  <strong>Londinium</strong>
+  <img src="https://cdn.discordapp.com/avatars/246957288881913857/09f0493f82af5544031208bf01afe898.png?size=256" width="120px;" alt="Kuba"/>
 </td>
 <td align="center">
-TPS-Geronam
-https://cdn.discordapp.com/avatars/212693204519223296/12c04fd0ebb1cde05159ae6c5c25e41c.png?size=256
+  <strong>TPS-Geronam</strong>
+  <img src="https://cdn.discordapp.com/avatars/212693204519223296/12c04fd0ebb1cde05159ae6c5c25e41c.png?size=256" width="120px;" alt="TPS-Geronam"/>
 </td>
 <td align="center">
-Vanadium
-https://cdn.discordapp.com/avatars/260139598972321793/936e61461f6e82564be9a2b29d3d2f14.png?size=256
+  <strong>Vanadium</strong>
+  <img src="https://cdn.discordapp.com/avatars/260139598972321793/936e61461f6e82564be9a2b29d3d2f14.png?size=256" width="120px;" alt="Vanadium"/>
 </td>
 </tr>
 </table>
