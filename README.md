@@ -49,7 +49,7 @@ Have more questions, comments or feedback? You can contacting us by joining our 
 
 - https://discord.gg/VgufEME
 
-# Centurions
+## Centurions
 Current Lead Developers
 <table>
 <tr>
