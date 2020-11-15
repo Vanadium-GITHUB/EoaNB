@@ -39,8 +39,6 @@ We do not tolerate using content developed for EoaNB for other purposes. Any oth
 
 ### Crash Troubleshooting
 
-`Missing Together for Victory Crash`: The current version of our mod crashes after unpausing on the first day of the game for players who do not own the HOI4 dlc *Together for Victory*. We are aware of this issue and it is a priority of the team to make our mod available for all Hearts of Iron players. However, until this message is changed otherwise, we have to yet pinpoint the exact code causing the crash.
-
 `Recalculating Naval Distances Crash`: The current version of our mod crashes during the game-booting process between the launcher window and the main menu for some users with incompatible graphics cards. A good fix for most users has been to enter the Steam Library and enter the option `-opengl` into Hearts of Iron 4's launch settings.
 
 ## Meet the Team; Join the Discussion
